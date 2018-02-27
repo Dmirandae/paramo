@@ -1,0 +1,65 @@
+	Lysipomia_aretioides	Lysipomia_bilineata	Lysipomia_caespitosa	Lysipomia_crassomarginata	Lysipomia_cuspidata	Lysipomia_cylindrocarpa	Lysipomia_globularis	Lysipomia_hutchinsonii	Lysipomia_laciniata	Lysipomia_laricina	Lysipomia_lehmannii	Lysipomia_montioides	Lysipomia_multiflora	Lysipomia_muscoides	Lysipomia_oellgaardii	Lysipomia_sparrei	Lysipomia_speciosa	Lysipomia_sphagnophila	Lysipomia_subpeltata	Lysipomia_vitreola
+37 Km de Comarapa	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Alto Chamis, al O de Cajamarca	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caballero, Siberia, 25 km desde Comarapa por la carretera Comarapa-Cochabamba	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Camino Sevilla de Oro - Mendez, Paramo de Castillo	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Carretera 35 de Loja a Victoria de Portete	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carretera Cayambe-Refugio del Volcan Cayambe  	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Carretera Cuenca-Las Cajas, 14-W 16 km de Cuenca	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Carretera Gualaceo-Limon, 21 km Este de Gualaceo, Paramos de Culebrillas	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Carretera Tulcan - Maldonado, 38 km de la depresion en Tulcan Boggy	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+Cerro Chicon, Rio Urubamba, Santuario Historico Machu Pichu	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Cerro El Vagro, Loja	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Cerros Calla Calla	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+Charazani, ladera frente a Niñocoriun	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Costa Rica	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Cumbe - Oña, km 20	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+El Tutal y Piedra Molina	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Km 85 en la via Panamericana, Norte de Loja	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+La Sarna	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Lago Micacocha	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Laguna Areviatadas 	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Laguna Boca Grande	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Laguna de Los Perros	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Laguna de Mica	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Laguna de Santa Cruz Chiquita	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Laguna Grande	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Laguna Yuragcocha, 3 km Este de Cerro Quilindaña	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Nevado del Ruiz, carretera Termales-Refugio	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Belmira, Vereda Rio Arriba, sector La Laguna	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Chisaca, Laguna Negra	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0
+Paramo de Choachi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Paramo de Cruz Verde	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Paramo de Frontino, Llano Grande 	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Guamani	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Paramo de Guasca 	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Las Papas, Laguna La Magdalena	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Paramo de Los Conejos	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Paramo de Mucubaji, Laguna de Mucubaji	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Paramo de Palacio, Laguna Seca	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Tinajillas, 5 km Sur de Gima 	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Paramo del Almorzadero	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Parque Nacional El Cajas, Laguna Toreadora	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Parque Nacional Huascaran, Laguna Azulcocha	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0
+Parque Nacional Madidi, Rio Coscapa	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Parque Nacional Natural de Sumapaz, quebrada la Tasajera	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Parque Nacional Podocarpus, Paramo del Cerro Toledo	0	1	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+Pasca, vereda Cajitas, cerca a la Laguna Negra	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0
+Piedras Gordas, Paramo de Chingaza	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Puerto Nuevo Napo, Rio Anatenario	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Represa Neusa	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Reserva Ecologica Antisana, Laguna La Mica 	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Reserva Ecologica Cotacachi-Cayapas, Laguna Cuicocha	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Reserva Ecologica El Refugio, a 150 m al SE del campamento Refugio	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Reserva Faunistica del Chimborazo, Paramo de Totorillas	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Reserva Forestal Sumaco, Crater de Cerro Sumaco	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Rio Langoa, E de Latacunga	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Santuario de Flora y Fauna de Iguaque, Paramo alrededor de la Laguna	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Santuario Nacional Megantoni	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Saraguro-Loja Km 124 desvio hacia Fierro Urco	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0
+Sierra Nevada de Santa Marta	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Sierra Nevada del Cocuy, Quebrada El Playon	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Valle Collanes, Paramo de los Altares	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Vereda de Duartes, parte alta montaña de Duartes	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Vereda San Antonio, sector Laguna Verde	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Volcan Galeras	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0

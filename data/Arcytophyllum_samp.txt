@@ -1,0 +1,250 @@
+	Arcytophyllum_aristatum	Arcytophyllum_capitatum	Arcytophyllum_ciliolatum	Arcytophyllum_filiforme	Arcytophyllum_lavarum	Arcytophyllum_muticum	Arcytophyllum_peruvianum	Arcytophyllum_rivetii	Arcytophyllum_setosum	Arcytophyllum_thymifolium	Arcytophyllum_vernicosum	Paederia_bojeriana	Phyllis_nobla
+1 Km SW de la Georgina, camino a las torres ICE	0	0	0	0	0	0	1	0	0	0	0	0	0
+10 km E Antsalova, cerca del borde del Tsingy de Bemaraha	0	0	0	0	0	0	0	0	0	0	0	1	0
+10 km NE de la carretera Alao, Cuspipaccha	0	0	0	0	0	0	0	0	1	0	0	0	0
+10 km SO de Loja, a lo largo del camino mas alla de la Universidad hacia La Violeta	0	1	0	1	0	0	0	0	0	0	0	0	0
+112 km de Cusco en el camino de las ruinas de Machu-picchu	0	0	0	0	0	0	0	0	0	1	0	0	0
+12 km de carretera Contumaza a Cascas	0	0	0	0	0	0	0	0	0	1	0	0	0
+1-2 km NE-E de Hacienda Pinatura, 5 km E de Pintag	0	0	0	0	0	0	0	0	0	1	0	0	0
+17 km E de Canchaque en ruta a Huancabamba	0	0	0	0	0	0	0	1	0	0	0	0	0
+2 km S de Itamut, Cerro Fabrega	0	0	0	0	1	0	0	0	0	0	0	0	0
+24 Km al NE de San Carlos hacia San Nicolas     	0	0	0	0	0	0	0	0	0	1	0	0	0
+4 km E de Hacienda Guachala, S de Cayambe	0	0	0	0	0	0	0	0	0	1	0	0	0
+55 km S de Tulcan, carretera Panamericana	0	0	0	0	0	0	0	0	0	1	0	0	0
+7 km NW de Incahuasi, Cerro Punamachay	0	0	1	0	0	0	0	0	0	0	0	0	0
+7 km por encima de la carretera a las Antenas	0	0	0	0	0	0	0	1	0	0	0	0	0
+Alto Chamis, al O de Cajamarca	0	0	1	1	0	0	0	0	0	0	0	0	0
+Alto El Diable	0	0	0	0	0	0	0	1	0	0	0	0	0
+Archipielago de Madeira, Puerto Moniz	0	0	0	0	0	0	0	0	0	0	0	0	1
+Area de Conservacion Regional Imiria	0	0	1	1	0	1	0	0	0	0	0	0	0
+Baños de Cuenca	0	0	0	0	0	0	0	1	0	0	0	0	0
+Cabeceras del rio Palo, alto de Las Casitas	1	0	0	0	0	0	1	0	0	0	0	0	0
+Cacha, 10 km SW de Riobamba	0	0	0	0	0	0	0	0	0	1	0	0	0
+Cajabamba - Luchubamba	0	0	0	0	0	0	0	0	0	1	0	0	0
+Camino Alao - Huamboya, alrededor del paso	1	1	0	0	0	0	0	0	0	0	0	0	0
+Camino entre Soloco y Quitachi, cerca a las ruinas de Purunllacota	0	0	0	0	0	0	0	0	0	1	0	0	0
+Camino Sevilla de Oro - Mendez, Paramo de Castillo	0	0	0	1	0	0	0	0	1	0	1	0	0
+Camporredondo, entre Brasil y Pucho	0	0	0	0	0	0	0	0	0	1	0	0	0
+Canton Tabacundo, Sector Malchingui San Juan	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carache, Via Paramo 	0	0	0	0	0	0	1	0	0	0	0	0	0
+Carretera Azogues - Pindilig, km 8-10 de Azogues	0	0	0	0	0	0	0	1	0	0	0	0	0
+Carretera Balsas-Leimebamba, pasando Lasachupas	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carretera Baños-Nero, km 91 	0	0	0	1	0	0	0	0	0	0	0	0	0
+Carretera Cajamarca-Bambamarca, 55 km N de Cajamarca  	0	0	0	0	0	0	0	1	0	0	0	0	0
+Carretera Cañar - El Tambo, km 3 de Cañar	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carretera Cayambe - Olmedo, km 7	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carretera Chiquintad-Labrado, Presa Chanlud, km 269	0	0	1	0	0	0	0	0	0	0	0	0	0
+Carretera Cucaita - Tunja	0	0	0	0	0	0	1	0	0	0	0	0	0
+Carretera Cuenca - Loja, 68 km S de Cuenca	0	0	0	1	0	0	0	0	0	0	0	0	0
+Carretera Cuenca-Cumbe-Jima, 4 km arriba de Jima, Palacurcu	0	1	0	0	0	0	0	0	0	0	0	0	0
+Carretera de Huancayo a Tarma	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carretera El Angel - Mira, 35 km W de El Angel	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carretera El Cisne - Zarum, km 5	0	0	0	0	0	0	0	1	0	0	0	0	0
+Carretera General Plaza Limon - Gualaceo, km 51-54 de Limon	0	0	0	0	0	0	0	0	0	0	1	0	0
+Carretera Gualaceo - Culebrillas 	0	1	0	1	0	0	0	0	0	0	0	0	0
+Carretera Guaranda - Catarama, arriba de Santa Fe	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carretera Riobamba- Licto, quebrada Supaycahuan	1	0	0	0	0	0	0	0	0	0	0	0	0
+Carretera Sigsig - Gima	0	0	0	0	0	0	0	1	0	1	0	0	0
+Carretera Sisgsig-Gualaquiza km 28, Paramos de Matanga	0	0	0	1	0	0	0	0	1	0	1	0	0
+Carretera Tarma-La Merced, cerca Carpapata, 30-34 km de Tarma	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carretera Tingo-Kuelap, Choctamal	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carretera Trujillo-Huamachuco, 10-15 km antes de Shorey	0	0	0	1	0	0	0	0	0	0	0	0	0
+Carretera Tulcan - Maldonado, 38 km de la depresion en Tulcan Boggy	1	1	0	0	0	0	0	0	0	0	0	0	0
+Carretera Zumbagua - Angamarca	0	0	0	0	0	0	0	0	0	1	0	0	0
+Cerca a la Estacion Forestal Ampijoroa 	0	0	0	0	0	0	0	0	0	0	0	1	0
+Cerro Bekom, 11 km SSW de Pico Cerro Kamuk	0	0	0	0	1	0	0	0	0	0	0	0	0
+Cerro Buenavista, Paramo alrededor torres del ICE	0	0	0	0	1	0	1	0	0	0	0	0	0
+Cerro Cabecar	0	0	0	0	1	0	0	0	0	0	0	0	0
+Cerro de Chilla	0	0	0	0	0	0	0	1	0	0	0	0	0
+Cerro De Hualgayoc	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cerro de la Muerte	0	0	0	0	1	0	1	0	0	0	0	0	0
+Cerro de Pasco	0	0	0	1	0	0	0	0	0	0	0	0	0
+Cerro de Pitasa	0	0	0	0	0	0	1	0	0	0	0	0	0
+Cerro El Ahuaca, Cariamanga	0	0	0	0	0	0	0	0	0	1	0	0	0
+Cerro La Viuda 	0	0	0	0	0	0	0	1	0	0	0	0	0
+Cerro Matumbi, Bosque Kiwengoma, Rio Magugu	0	0	0	0	0	0	0	0	0	0	0	1	0
+Cerro Sabila	0	0	0	0	1	0	1	0	0	0	0	0	0
+Cerro Sakira	0	0	0	0	1	0	1	0	0	0	0	0	0
+Cerro Uritusinga, Loja-La Palma Km 18-20	0	0	0	0	0	0	0	1	0	0	1	0	0
+Cerro Villonaco, Loja-Pedestal-La Toma	0	0	0	0	0	0	0	1	0	0	0	0	0
+Cerro Yanguan, NE de Pindilig	0	0	0	1	0	0	0	0	0	0	1	0	0
+Cerros Calla Calla	0	0	0	1	0	0	0	0	0	0	0	0	0
+Chacahuaro, Valle del Rimac	0	0	0	0	0	0	0	0	0	1	0	0	0
+Chissioua, Mtsamboro	0	0	0	0	0	0	0	0	0	0	0	1	0
+Chota - Shorey	0	0	0	0	0	0	1	0	0	0	0	0	0
+Cocopunco, en el camino de Sorata a Mapiri	0	0	0	0	0	0	0	0	1	0	0	0	0
+Coopelares, Volcan, Sector Las Pailas	0	0	0	0	1	0	1	0	0	0	0	0	0
+Cordillera Colan, noreste de La Peca	0	0	0	1	0	0	0	0	0	0	0	0	0
+Cordillera de los Llanganates, Base de Cerro Hermoso 	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cordillera de los Llanganates, Laguna Pisayambo	0	0	0	0	0	0	0	0	1	0	0	0	0
+Cordillera de los Llanganates, Paramo de Sogillas-Valle de los Frailejones	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cordillera de Nanguipa, Cerro Colorado	0	0	0	0	0	0	0	0	0	0	1	0	0
+Crater de Pululahua	0	0	0	0	0	0	0	0	0	1	0	0	0
+Cuenca - Azogues, cerca km 5 de Cuenca	0	0	0	0	0	0	0	0	0	1	0	0	0
+Desvio a Otuzco - Agallpampa	0	0	0	0	0	0	0	0	0	1	0	0	0
+Drenaje del Rio Catamayo	0	0	0	0	0	0	0	0	0	1	0	0	0
+El Cerrito, via al corregimiento de Tenerife, cuenca rio Coronado	0	0	0	0	0	0	0	0	0	1	0	0	0
+El Rayon	0	0	0	0	0	0	1	0	0	0	0	0	0
+El Tutal y Piedra Molina	0	0	0	0	0	0	1	0	0	0	0	0	0
+Encanada, ruta Michiquillay y El Punre - Sorochuco	0	0	0	0	0	0	0	1	0	0	0	0	0
+Entre Carchi, Guajara y Guayupe	0	0	0	0	0	0	0	0	0	1	0	0	0
+Entre Miracosta y Pampa del Lirio	0	0	0	0	0	0	0	0	0	1	0	0	0
+Entre Pungala y Alao	0	0	0	0	0	0	0	0	0	1	0	0	0
+Entre San Antonio y Matibamba	0	0	0	0	0	0	0	0	0	1	0	0	0
+Este de Erjos	0	0	0	0	0	0	0	0	0	0	0	0	1
+Francisco de Sogeo	0	0	0	0	0	0	0	0	0	1	0	0	0
+Guayllabamba, Este del puente del Pisque 	0	0	0	0	0	0	0	0	0	1	0	0	0
+Hacienca Yura Cruz, 10 km N de Ibarra 	0	1	0	0	0	0	0	0	1	0	0	0	0
+Huacas, Cachicadan	0	0	1	0	0	0	0	0	0	1	0	0	0
+Huancabama, Fundo San Luis	0	0	0	0	0	0	0	0	1	0	0	0	0
+Huayllabamba, Laguna de Yanaccocha	0	0	0	0	0	0	0	0	0	1	0	0	0
+Huaylliyas	0	0	0	1	0	0	0	0	0	0	0	0	0
+Isla Comoro, Grande Comore, cerca al hotel Maloudja 	0	0	0	0	0	0	0	0	0	0	0	1	0
+Jurisdicciones, cerro de Oroque	0	0	0	0	0	0	1	0	0	0	0	0	0
+km 20 al oeste de Canar, Sector Ventanas	0	0	0	0	0	0	0	0	0	1	0	0	0
+km 30 de la ciudad de Loja a la carretera a  Zamora	0	0	0	0	0	0	0	0	0	1	0	0	0
+Km 67 S de Cuenca en via Panamericana	0	0	0	1	0	0	0	0	0	0	0	0	0
+Km 85 en la via Panamericana, Norte de Loja	0	1	0	0	0	0	0	1	0	1	0	0	0
+Kyadondo, Bulindo, cerca de Kasangati	0	0	0	0	0	0	0	0	0	0	0	1	0
+La Chonta, Km 54 sobre Interamericana	0	0	0	0	1	0	0	0	0	0	0	0	0
+La Gomera, Cumbre Carbonera	0	0	0	0	0	0	0	0	0	0	0	0	1
+La Plata 	0	0	0	1	0	0	0	0	0	0	0	0	0
+Laguna Areviatadas 	0	1	0	1	0	0	0	0	0	0	0	0	0
+Laguna Boca Grande	0	0	0	0	0	0	1	0	0	0	0	0	0
+Laguna de San Marcos, NE de Volcan Cayambe	0	1	0	0	0	0	0	0	0	0	0	0	0
+Laguna de Santa Cruz Chiquita	0	0	0	1	0	0	0	0	0	0	0	0	0
+Laguna Grande	0	0	0	0	0	0	1	0	0	0	0	0	0
+Laguna Otun	1	0	0	0	0	0	0	0	0	0	0	0	0
+Laguna San Pablo, 0-2 km a lo largo del rio hacia Otavalo	0	0	0	0	0	0	0	0	0	1	0	0	0
+Laguna Sausacocha	0	0	0	0	0	0	0	0	0	1	0	0	0
+Leimebamba, cerca al puente de Chachapoyas	0	0	0	0	0	0	0	0	0	1	0	0	0
+Limite entre Morona-Santiago y Riobamba, 309 Km	0	0	0	0	0	0	0	0	0	1	0	0	0
+Lomas de Atiquipa	0	0	0	0	0	0	0	0	0	1	0	0	0
+Los Alisos, Quebrada Chigualen, Cerro Colpar	0	0	0	0	0	0	0	1	0	0	0	0	0
+Los Farallones, nacimiento del Rio Pchinde	0	0	0	0	0	0	1	0	0	0	0	0	0
+Macizo del Tatama	0	0	0	0	0	0	1	0	0	0	0	0	0
+Margen izquierda via Toez - Tacueyo, Alto el Mojorro	0	0	0	0	0	0	1	0	0	0	0	0	0
+Monserrate	0	0	0	0	0	0	1	0	0	0	0	0	0
+Montana Agoyan	0	0	0	0	0	0	0	0	0	1	0	0	0
+Montaña Anaga	0	0	0	0	0	0	0	0	0	0	0	0	1
+Monte Redondo  	0	0	0	0	0	0	0	0	0	1	0	0	0
+Montes al oeste de Cutervo	0	0	0	0	0	0	0	1	1	0	0	0	0
+Mora, Parroquia San Isidro	0	0	0	0	0	0	0	0	0	1	0	0	0
+Namora, ladera oeste de la laguna de San Nicolas	0	0	0	0	0	0	0	0	0	1	0	0	0
+Nevado de Tolima	1	0	0	0	0	0	0	0	0	0	0	0	0
+NW de Arcabuco, Cerro Berlin, Hoya del Rio Chuqueque	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ollantaytambo, Huaytampo	0	0	0	0	0	0	0	0	0	1	0	0	0
+Paramillos Argelia	0	1	0	0	0	0	0	0	0	0	0	0	0
+Paramo arriba Llano Chiquito, Represa de Neusa	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo Cerro Buena Vista	0	0	0	0	0	0	0	0	1	0	0	0	0
+Paramo de Chingaza	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Chipaque	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Chisaca, Laguna Negra	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Choachi	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Cruz Verde	0	0	0	0	0	0	1	0	1	1	0	0	0
+Paramo de Frontino, Llano Grande 	0	0	0	1	0	0	1	0	1	0	0	0	0
+Paramo de Guamani	0	0	0	1	0	0	0	0	0	1	0	0	0
+Paramo de Guanacas	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Guantiva, cerro Pan de Azucar	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Guargua 	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Guasca 	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Guinas, Santa Rosita, Quebrada los Colorados	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de la Rusia	0	0	0	1	0	0	1	0	0	0	0	0	0
+Paramo de Las Papas, Laguna La Magdalena	0	0	0	0	0	0	1	0	1	0	0	0	0
+Paramo de Moras 	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Palacio, Laguna Seca	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Quilinsayaco entre Pasto y Sibundoy	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Sibate	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo de Sonson, Cerro de Las Palomas	0	1	0	0	0	0	0	0	0	0	0	0	0
+Paramo de Tinajillas, 5 km Sur de Gima 	0	0	0	1	0	0	0	0	0	0	0	0	0
+Paramo del Almorzadero	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo del Alto del Escobal	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo del Bordoncillo, vereda San Antonio de Bellavista	0	0	0	0	0	0	1	0	0	1	0	0	0
+Paramo del Nevado del Huila, Quebrada Verdun	0	0	0	0	0	0	0	0	1	0	0	0	0
+Paramo del Quindio	1	0	0	0	0	0	0	0	0	0	0	0	0
+Paramo Guerrero	0	0	0	0	0	0	1	0	0	0	0	0	0
+Paramo Jaboncillo	0	0	0	0	1	0	0	0	0	0	0	0	0
+Paramo Nacional El Tamá	0	0	0	0	0	0	1	0	0	0	0	0	0
+Parque Nacional Braulio Carrillo, Estacion Zurqui	0	0	0	0	1	0	0	0	0	0	0	0	0
+Parque Nacional Chirripo, Cerro Chirripo Grande 	0	0	0	0	1	0	1	0	0	0	0	0	0
+Parque Nacional Cotopaxi, carretera a El Refugio 	0	0	0	0	0	0	0	0	0	1	0	0	0
+Parque Nacional de Cutervo, Laguna El Pileo	0	0	0	0	0	0	0	1	0	0	0	0	0
+Parque Nacional El Cajas, Laguna Toreadora	0	1	1	1	0	0	0	0	1	0	1	0	0
+Parque Nacional Huascaran, Laguna Azulcocha	0	0	0	0	0	0	0	0	0	1	0	0	0
+Parque Nacional La Amistad, Sendero Herradura-Uran	0	0	0	0	1	0	1	0	0	0	0	0	0
+Parque Nacional Llanganates, Cerro Hermoso 	0	1	0	1	0	0	0	1	0	0	0	0	0
+Parque Nacional Madidi, Rio Coscapa	0	0	0	1	0	0	0	0	0	0	0	0	0
+Parque Nacional Natural de Sumapaz, quebrada la Tasajera	0	0	0	0	0	0	1	0	0	0	0	0	0
+Parque Nacional Natural Purace	0	0	0	0	0	0	1	0	0	0	0	0	0
+Parque Nacional Podocarpus, Paramo del Cerro Toledo	0	1	1	1	0	0	0	0	1	0	1	0	0
+Parque Nacional Rincon de la Vieja	0	0	0	0	1	0	1	0	0	0	0	0	0
+Parque Nacional Volcan Irazu, Sendero al Atlantico	0	0	0	0	1	0	0	0	0	0	0	0	0
+Parque Nacional Volcan Poas	0	0	0	0	1	0	0	0	0	0	0	0	0
+Parque Nacional Volcan Turrialba	0	0	0	0	1	0	0	0	0	0	0	0	0
+Parque Nacional Yanachaga- Chemillen, Pozuzo, Sector Pan de Azucar	0	0	0	1	0	0	0	0	0	0	0	0	0
+Parroquia Cumbe	0	0	0	0	0	0	0	1	0	0	0	0	0
+Parroquia Inga Pirca	0	0	0	0	0	0	0	0	0	1	0	0	0
+Pasca, vereda Cajitas, cerca a la Laguna Negra	0	0	0	0	0	0	1	0	0	0	0	0	0
+Piedras Gordas, Paramo de Chingaza	0	0	0	0	0	0	1	0	0	0	0	0	0
+Pozos de Agua de Llio	0	0	0	0	0	0	0	0	0	1	0	0	0
+Puento Velasco Ibarra	0	0	0	0	0	0	0	0	0	1	0	0	0
+Puerto Santo, camino hacia el Pico Branco	0	0	0	0	0	0	0	0	0	0	0	0	1
+Pwani	0	0	0	0	0	0	0	0	0	0	0	1	0
+Quebrada de Sendamal, sobre la carretera a Celendin	0	1	0	0	0	0	1	0	1	0	0	0	0
+Quebrada Tingo, km 45 NE de Angamarca	0	0	0	0	0	0	0	0	0	1	0	0	0
+Quimiag, NE de Riobamba	0	0	0	0	0	0	0	0	0	1	0	0	0
+Represa Neusa	0	0	0	0	0	0	1	0	0	0	0	0	0
+Reserva Biologica Cerro Las Vueltas	0	0	0	0	0	0	1	0	0	0	0	0	0
+Reserva Ecologica Antisana, Laguna La Mica 	0	1	0	0	0	0	0	0	0	1	0	0	0
+Reserva Ecologica Cotacachi-Cayapas, Laguna Cuicocha	1	0	0	1	0	0	0	0	0	1	0	0	0
+Reserva Ecologica El Angel, Laguna El Voladero	1	1	0	1	0	0	1	0	0	1	0	0	0
+Reserva forestal Chamanyani	0	0	0	0	0	0	0	0	0	0	0	1	0
+Reserva Forestal Los Santos, Cerro Nene 	0	0	0	0	1	0	0	0	0	0	0	0	0
+Reserva Forestal Rio Macho, Estacion Ojo de Agua	0	0	0	0	1	0	0	0	0	0	0	0	0
+Reserva Forestal Sumaco, Crater de Cerro Sumaco	0	0	0	0	0	0	0	0	1	0	0	0	0
+Reserva Geobotanica del Pululhua	0	0	0	0	0	0	0	0	0	1	0	0	0
+Reserva Natural La Planada	0	0	0	0	0	0	1	0	0	0	0	0	0
+Reserva Tapichalaca 	0	0	0	0	0	0	0	0	0	0	1	0	0
+Restaurante Los Chespiritos # 2, Junto a Carretera Interamericana	0	0	0	0	1	0	0	0	0	0	0	0	0
+Rio Comainas	0	0	0	0	0	0	0	0	1	0	0	0	0
+Rio Coscapa, 3 km NE de Unduavi	0	0	0	1	0	0	0	0	0	0	0	0	0
+Rio Pastaza	0	0	1	0	0	0	0	0	0	0	0	0	0
+Rio Tarqui, 4-18 km sur de  Cuenca	0	0	0	0	0	0	0	1	0	0	0	0	0
+Ruinas de Aypate, Tacalpo, Yanchala	0	0	0	0	0	0	0	0	0	1	0	0	0
+San Cristobal, entre Canchaqui y Huancabamba, Cuello del indio 	0	0	0	0	0	0	0	0	0	1	1	0	0
+San Pedro de Cejas 	0	0	0	1	0	0	0	0	0	0	0	0	0
+San Pedro, drenaje del rio Guaitura 	0	0	0	0	0	0	0	0	0	1	0	0	0
+Santa Cruz de Tenerife, Bosque de las Mercedes	0	0	0	0	0	0	0	0	0	0	0	0	1
+Santuario de Flora y Fauna de Iguaque, Paramo alrededor de la Laguna	0	0	0	0	0	0	1	0	0	0	0	0	0
+Santuario Nacional Cordillera de Colan	0	0	0	0	0	0	0	0	1	0	0	0	0
+Santuario Nacional Megantoni	0	0	0	1	0	0	0	0	1	0	0	0	0
+Saraguro-Loja Km 124 desvio hacia Fierro Urco	0	1	0	1	0	0	0	0	1	0	1	0	0
+Sector de Pifo, Laderas del Rio Ayaguaico	0	0	0	0	0	0	0	0	0	1	0	0	0
+Sendero al Cerro Uran	0	0	0	0	1	0	0	0	0	0	0	0	0
+Sierra Nevada de Santa Marta	0	0	0	0	0	0	1	0	0	0	0	0	0
+Sierra Nevada del Cocuy, laguna Grande de los Verdes	0	0	0	0	0	0	1	0	0	0	0	0	0
+Sierra Nevada del Cocuy, Quebrada El Playon	0	0	0	0	0	0	1	0	0	0	0	0	0
+Sur de El Playon de San Francisco, Cerro Mirador	0	0	0	0	0	0	0	0	1	0	0	0	0
+Sur de Matucana 	0	0	0	0	0	0	0	0	0	1	0	0	0
+Tambo de Savanilla	0	0	1	0	0	0	0	0	0	0	0	0	0
+Urubamba, Cerro Pumahuanca	0	0	0	1	0	0	0	0	0	1	0	0	0
+Valle Collanes, Paramo de los Altares	1	0	0	1	0	0	0	1	0	1	1	0	0
+Valle de Coyllurqui	0	0	0	0	0	0	0	0	0	1	0	0	0
+Valle del  Rio Chalca, Miguel Iglesias, km 26 NNW Celendin	0	0	0	1	0	0	0	1	0	1	0	0	0
+Valle del rio Pastaza, entre Baños y Mera	0	0	0	0	0	0	0	0	0	1	0	0	0
+Valle del rio Paute, entre Paute y Cuenca	0	0	0	0	0	0	0	0	0	1	0	0	0
+Vereda Butaga, Paramo de La Cortadera	0	0	0	1	0	0	0	0	0	0	0	0	0
+Vereda El Salado	0	0	0	0	0	0	1	0	0	0	0	0	0
+Vereda San Antonio, sector Laguna Verde	0	0	0	0	0	0	1	0	0	0	0	0	0
+Via de Villapinzon a las Fuentes del Rio Bogota	0	0	0	0	0	0	1	0	0	0	0	0	0
+Via Panamericana km 65-70 km sur de Cuenca	0	0	0	0	0	0	0	0	0	0	1	0	0
+Vilcabamba	0	0	0	1	0	0	0	0	0	0	0	0	0
+Volcan Azufral	0	0	0	0	0	0	0	0	1	1	0	0	0
+Volcan Cayambe	0	0	0	0	0	0	0	0	1	0	0	0	0
+Volcan Chiles	1	1	0	1	0	0	0	0	0	0	0	0	0
+Volcan de Chiriqui	0	0	0	0	1	0	0	0	0	0	0	0	0
+Volcan Galeras	1	0	0	0	0	0	0	0	0	0	0	0	0
+Volcan Pasochoa 	0	0	0	0	0	0	0	0	0	1	0	0	0
+Volcan Sincholahua 	0	0	0	0	0	0	0	0	0	1	0	0	0
+Volcan Tungurahua 	1	0	0	0	0	0	0	0	0	1	0	0	0
+Yaurisque, Suroeste de Cusco	0	0	0	0	0	0	0	0	0	1	0	0	0
